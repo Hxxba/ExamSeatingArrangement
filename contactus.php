@@ -33,10 +33,10 @@
                                 <div class="row">
                                     <div class="centered-text col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
 
-                                            <h2> <span itemprop="name" class="textcolor">HIBA</span></h2>
+                                            <h2> <span itemprop="name" class="textcolor">Hiba    Husna    Mehrin     Huda</span></h2>
                                                 <i class="fa fa-map-marker"></i> <span itemprop="addressRegion" class="add">Bangalore,India</span>
 
-                                            <p itemprop="email"> <i class="fa fa-envelope"> </i> <a  class="link" href="mailto:baikaralkesha@gmail.com">fathimahiba952@gmail.com</a> </p>
+                                            <p itemprop="email"> <i class="fa fa-envelope"> </i> <a  class="link" href="mailto:fathimahiba952@gmail.com@gmail.com">fathimahiba952@gmail.com</a> </p>
                                         </div>
                                     </div>
                                 </div>
@@ -54,21 +54,14 @@
                                     </div>
                                     <div class="col-lg-3 col-lg-push-1  n-circle  social-btn-holder">
 
-                                            <a type="button" title="linkedin" class="btn btn-social  btn-block btn-linkedin btn-circle" target="_BLANK" href="https://www.linkedin.com/in/alkesha-baikar-12932a128/"><i class="fa fa-linkedin"></i></a>
+                                            <a type="button" title="linkedin" class="btn btn-social  btn-block btn-linkedin btn-circle" target="_BLANK" href="https://www.linkedin.com/in/hiba-a12a72189/"><i class="fa fa-linkedin"></i></a>
                                    </div>
 
 
 
                                     <div class="col-lg-3 col-lg-push-1 n-circle social-btn-holder">
-
+                                    
                                         <a type="button" title="github" class="btn btn-social  btn-block btn-github btn-circle" target="_BLANK" href="https://github.com/Hxxba"><i class="fa fa-github"></i></a>
-                                    </div>
-                                    <div class="col-lg-3 col-lg-push-1  n-circle    social-btn-holder">
-
-                                            <a type="button" title="stackoverflow" class="btn btn-social  btn-block btn-stackoverflow btn-circle" target="_BLANK" href="https://stackoverflow.com/users/7841346/alkesha-baikar"><i class="fa fa-stack-overflow"></i></a>
-
-
-
                                     </div>
                                 </div>
                             </div>

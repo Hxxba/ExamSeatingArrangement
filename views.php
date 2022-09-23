@@ -10,7 +10,7 @@
   <?php
   $server='localhost';
   $dbuser='root';
-  $dbpass='alkesha15';
+  $dbpass='';
   $db='trial';
 
  $conn=mysqli_connect($server,$dbuser,$dbpass,$db);

@@ -23,7 +23,7 @@
                    <span class="icon-bar"></span>
                    <span class="icon-bar"></span>
                </button>
-               <a class="navbar-brand" href="#">Exam Seating Arrangement</a>
+               <a class="navbar-brand" href="#">MEAEC Exam Seating Arrangement</a>
            </div>
            <!-- Collect the nav links, forms, and other content for toggling -->
            <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -62,7 +62,7 @@
         <hgroup>
             <h2></h2>
         </hgroup>
-      <a href="selectoneof3.php" class="btn btn-hero btn-lg btn-responsive">SEARCH YOU</a>
+      <a href="selectoneof3.php" class="btn btn-hero btn-lg btn-responsive">Click here to search your seat</a>
       </div>
     </div>
     <div class="item slides">
@@ -71,7 +71,7 @@
         <hgroup>
             <h2></h2>
         </hgroup>
-      <a href="selectoneof3.php" class="btn btn-hero btn-lg btn-responsive">SEARCH YOU</a>
+      <a href="selectoneof3.php" class="btn btn-hero btn-lg btn-responsive">Click here to search your seat</a>
       </div>
     </div>
     <div class="item slides">
@@ -80,7 +80,7 @@
         <hgroup>
           <h2></h2>
         </hgroup>
-      <a href="selectoneof3.php" class="btn btn-hero btn-lg btn-primary btn-responsive">SEARCH YOU</a>
+      <a href="selectoneof3.php" class="btn btn-hero btn-lg btn-primary btn-responsive">Click here to search your seat</a>
       </div>
     </div>
   </div>

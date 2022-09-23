@@ -35,12 +35,10 @@
                     <option>LH210</option>
                </select>
               </div>
-
             </div>
         <center><input type="submit" name="submit" value="search" class="btn btn-lg btn-success"></input></center>
   <form>
           </form>
-
     </div>
     </div>
    </div>

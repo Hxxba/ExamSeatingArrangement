@@ -14,7 +14,7 @@
   <?php
      $server='localhost';
      $dbuser='root';
-     $dbpass='alkesha15';
+     $dbpass='';
      $db='trial';
     $conn=mysqli_connect($server,$dbuser,$dbpass,$db);//database connection
     mysqli_query($conn,"UPDATE viewcount set views=views+1 where pagename='individualdata'");

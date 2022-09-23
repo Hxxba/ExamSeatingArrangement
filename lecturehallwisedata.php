@@ -18,8 +18,8 @@
    $dbpass='';
    $db='trial';
   $conn=mysqli_connect($server,$dbuser,$dbpass,$db);//database connection
-  mysqli_query($conn,"UPDATE viewcount set views=views+1 where pagename='lecturehalldata'");
-  $re=mysqli_query($conn,"SELECT * from viewcount where pagename='lecturehalldata' ");
+  mysqli_query($conn,"UPDATE viewcount set views=views+1 where pagename='lecturehallwisedata'");
+  $re=mysqli_query($conn,"SELECT * from viewcount where pagename='lecturehallwisedata' ");
   while ($view=mysqli_fetch_array($re)) {
   ?>
   <span class="glyphicon glyphicon-eye-open"></span><?php echo " ".$view['views'];} ?>

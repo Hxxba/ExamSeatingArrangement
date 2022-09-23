@@ -38,7 +38,7 @@ CREATE TABLE `viewcount` (
 INSERT INTO `viewcount` (`pagename`, `views`) VALUES
 ('branchwisedata', 44),
 ('individualdata', 24),
-('lecturehalldata', 56);
+('lecturehallwisedata', 56);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

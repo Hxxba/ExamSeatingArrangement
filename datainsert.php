@@ -35,7 +35,7 @@
     <?php
       $server='localhost';
       $dbuser='root';
-      $dbpass='alkesha15';
+      $dbpass='';
       $db='trial';
       $conn=mysqli_connect($server,$dbuser,$dbpass,$db);//database connection
       $depttake= $_POST['department'];
@@ -170,7 +170,7 @@ $yy=$_POST['year'];
                             <div class="form-group">
                               <!--date is inserted here-->
                             	  <label for="examdate" class="class-control">Date :<font style="color:#FF0000">*</font></label><br />
-                              <input class="form-control" placeholder="DD/MM/YYYY" type="date" name="examdate" id="examdate"></input>
+                              <input class="form-control" placeholder="DD/MM/YYYY" type="date" name="examdate" id="examdate"  min="<?php echo date("Y-m-d"); ?>"> </input>                        
                             </div>
                             <?php
                             $examdate=$_POST['examdate'];

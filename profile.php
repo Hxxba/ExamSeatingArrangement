@@ -26,8 +26,8 @@
    </center>
    <br>
 
-   <center><label>A Name</label></center>
-   <center><label>Raigad</label></center>
+   <center><label>Hiba Husna</label></center>
+   <center><label>Huda Mehrin</label></center>
 
           </div>
 </form>
